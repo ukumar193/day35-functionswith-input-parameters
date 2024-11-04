@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+form{
+  display: inline-block;
+  font-size:2rem;
+  background: linear-gradient( orange,yellow);
+  width: 600px;
+  padding: 20px 0px;
+  border: 10px double lemonchiffon;
+}
+label{
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  margin: 5px;
+  font-size: 1.75rem;
+  border: 1px solid black;
+}
+span{
+display: inline-block;
+width: 100px;
+margin-left: 6px;
+font-size: 1.25rem;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+p{
+  border: 1px solid lightblue;
+  background-color: gray;
+}
+
+
+
